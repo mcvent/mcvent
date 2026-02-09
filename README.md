@@ -16,12 +16,23 @@
 
 ### **Основные языки программирования:**
 
-| Язык | Уровень владения | Применение |
-|------|------------------|------------|
-| **Python** | Продвинутый | Научные вычисления, анализ данных, бэкенд | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-| **C++** | Продвинутый | Системное программирование, алгоритмы | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-| **C#** | Средний | Прикладное ПО, разработка под Windows | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-| **Assembler (x86/x64)** | Средний | Низкоуровневое программирование, оптимизация | ![Assembler](https://img.shields.io/badge/assembler-%23007ACC.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+### **Основные языки программирования:**
+
+- **Python** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+  *Уровень:* Продвинутый  
+  *Применение:* Научные вычисления, анализ данных, бэкенд
+
+- **C++** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  *Уровень:* Продвинутый  
+  *Применение:* Системное программирование, алгоритмы
+
+- **C#** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+  *Уровень:* Средний  
+  *Применение:* Прикладное ПО, разработка под Windows
+
+- **Assembler (x86/x64)** ![Assembler](https://img.shields.io/badge/assembler-%23007ACC.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)  
+  *Уровень:* Средний  
+  *Применение:* Низкоуровневое программирование, оптимизация
 
 ### **Дополнительные технологии:**
 
