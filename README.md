@@ -16,11 +16,20 @@
 
 - **Python**  
 - **C++** 
-- **C#** 
-- **Assembler (x86/x64)**
-- **Linux/Windows** – администрирование, разработка
+- **C#**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Assembler](https://img.shields.io/badge/assembler-%23007ACC.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### **Стек разработки:**
+
+- **QT**
+- **FastAPI**
+- **SQLite**
+- **Linux/Windows** – администрирование, разработка
+
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
